@@ -1,7 +1,3 @@
-Aqui está o texto ajustado para a publicação no GitHub, incluindo a descrição dos três gráficos e o link do dataset, em vez dos comandos Bash:
-
----
-
 # Análise de Risco de Inadimplência com Machine Learning
 
 Este repositório contém um projeto de análise de risco de inadimplência utilizando técnicas de Machine Learning (ML). O objetivo é prever a probabilidade de inadimplência de clientes de crédito a partir de suas características financeiras, utilizando diversos modelos de aprendizado supervisionado.
